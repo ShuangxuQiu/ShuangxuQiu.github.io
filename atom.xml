@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>cyanbird blog</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://shuangxuqiu.github.io/"/>
+  <link href="http://ShuangxuQiu.github.io/"/>
   <updated>2017-04-26T07:14:22.000Z</updated>
-  <id>http://shuangxuqiu.github.io/</id>
+  <id>http://ShuangxuQiu.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Jack Qiu</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://shuangxuqiu.github.io/2017/04/26/hello-world/"/>
-    <id>http://shuangxuqiu.github.io/2017/04/26/hello-world/</id>
+    <link href="http://ShuangxuQiu.github.io/2017/04/26/hello-world/"/>
+    <id>http://ShuangxuQiu.github.io/2017/04/26/hello-world/</id>
     <published>2017-04-26T07:14:22.000Z</published>
     <updated>2017-04-26T07:14:22.000Z</updated>
     
