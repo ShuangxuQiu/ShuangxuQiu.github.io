@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://119.29.254.13/"/>
+  <link href="http://blog.prozin.xyz/"/>
   <updated>2017-04-26T07:14:22.000Z</updated>
-  <id>http://119.29.254.13/</id>
+  <id>http://blog.prozin.xyz/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://119.29.254.13/2017/04/26/hello-world/"/>
-    <id>http://119.29.254.13/2017/04/26/hello-world/</id>
+    <link href="http://blog.prozin.xyz/2017/04/26/hello-world/"/>
+    <id>http://blog.prozin.xyz/2017/04/26/hello-world/</id>
     <published>2017-04-26T07:14:22.000Z</published>
     <updated>2017-04-26T07:14:22.000Z</updated>
     
